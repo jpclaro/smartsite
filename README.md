@@ -5,6 +5,7 @@ text 1
 ## header 2
 text 2
 ### header 3
-#1
+
+Is this an autolink? #1
 
 bli bla blubb#1
